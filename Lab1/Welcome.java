@@ -4,7 +4,7 @@ public class Welcome
 {
   public static void main(String[] args)
   {
-    // Task 1 Q Write a Java program that takes the birth year from the user and prints her/his age. Here are sample runs of the program:
+    // Task 1 Q Write a Java program that takes the birth year from the user and prints her/his age :
     /* 
     int age;
     Scanner myInput = new Scanner(System.in);
@@ -15,7 +15,7 @@ public class Welcome
     myInput.close();
     */
 
-    // Task 2 Q Write a program that converts a Fahrenheit degree to Celsius using the formula: celsius = ( 5 )( fahrenheit - 32) Hints: You will use Input statement to get Fahrenheit as input, convert it to Celsius and then display result.
+    // Task 2 Q Write a program that converts a Fahrenheit degree to Celsius using the formula: celsius = ( 5 )( fahrenheit - 32) convert it to Celsius and then display result.
     /* 
     double cel;
     Scanner Input = new Scanner(System.in);
